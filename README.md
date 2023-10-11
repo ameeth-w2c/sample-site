@@ -30,4 +30,3 @@ You agree to indemnify [company name] and its affiliates and hold [company name]
 **Limitation on liability**
 [company name] is not liable for any damages that may occur to you as a result of your misuse of our app.
 [company name] reserves the right to edit, modify, and change this Agreement at any time. We shall let our users know of these changes through electronic mail. This Agreement is an understanding between [company name] and the user, and this supersedes and replaces all prior agreements regarding the use of this app. 
-![image](https://github.com/ameeth-w2c/sample-site/assets/110446260/25dfc3ec-ce3e-458c-b985-a67e9ce10142)
